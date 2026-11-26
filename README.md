@@ -184,20 +184,3 @@ These `.joblib` files should only be loaded from this trusted project repository
 
 See `docs/CONTRIBUTIONS.md` for a fuller summary.
 
-## AI assistance disclosure
-
-The integrated notebook records that ChatGPT assisted with drafting and checking parts of the Sentence-BERT and evaluation code and suggested two synthetic SMS examples for the demonstration. The project team remains responsible for reviewing, understanding, and validating the submitted work.
-
-## References
-
-1. T. A. Almeida, J. M. G. Hidalgo, and A. Yamakami, “Contributions to the Study of SMS Spam Filtering: New Collection and Results,” *Proceedings of the 11th ACM Symposium on Document Engineering*, pp. 259–262, 2011, doi: 10.1145/2034691.2034742.
-2. N. Reimers and I. Gurevych, “Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks,” *Proceedings of EMNLP-IJCNLP*, pp. 3982–3992, 2019, doi: 10.18653/v1/D19-1410.
-3. UCI Machine Learning Repository, “SMS Spam Collection.” https://archive.ics.uci.edu/dataset/228/sms+spam+collection
-
-## Submission note
-
-This repository includes the integrated source notebook, saved model artifacts, configuration, and exported evaluation evidence. Add the final approved project report, presentation slides, and completed course appendix if your instructor expects those documents to be stored in the same GitHub repository.
-
-## Publish on GitHub
-
-This is the live GitHub repository for the Group 8 project. For instructions on cloning the repository and pushing future updates, see [`docs/GITHUB_UPLOAD.md`](docs/GITHUB_UPLOAD.md). The repository is currently private; grant the instructor access if the course requires direct access to the source.
