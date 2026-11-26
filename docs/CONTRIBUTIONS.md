@@ -25,4 +25,3 @@
 - Reviewed adjusted-threshold errors and new-message inference behavior.
 - Prepared the integrated notebook and submission evidence.
 
-The notebook records the implementation details and execution outputs. Each member should retain dated evidence of their individual work for the course appendix.
