@@ -200,4 +200,4 @@ This repository includes the integrated source notebook, saved model artifacts, 
 
 ## Publish on GitHub
 
-This download is a ready-to-upload repository folder, not a live remote GitHub repository. Follow [`docs/GITHUB_UPLOAD.md`](docs/GITHUB_UPLOAD.md) to create the GitHub repository and upload/push these files. Use a private repository unless public visibility is explicitly required, and grant the instructor access if the repository is private.
+This is the live GitHub repository for the Group 8 project. For instructions on cloning the repository and pushing future updates, see [`docs/GITHUB_UPLOAD.md`](docs/GITHUB_UPLOAD.md). The repository is currently private; grant the instructor access if the course requires direct access to the source.
