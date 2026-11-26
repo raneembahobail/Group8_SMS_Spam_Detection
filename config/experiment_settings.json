@@ -1,0 +1,21 @@
+{
+  "minimum_development_spam_recall": 0.9,
+  "standard_threshold": 0.5,
+  "tfidf_adjusted_threshold": 0.28659602561767433,
+  "sbert_adjusted_threshold": 0.5910092549040262,
+  "threshold_selection_rule": "Minimize development FPR subject to minimum development Spam Recall; tie-break by higher Spam Recall, then higher threshold.",
+  "random_state": 42,
+  "test_size_of_unique_groups": 0.2,
+  "development_size_of_train_dev_groups": 0.2,
+  "sbert_model_id": "sentence-transformers/all-MiniLM-L6-v2",
+  "sbert_model_revision": "c9745ed1d9f207416be6d2e6f8de32d1f16199bf",
+  "challenge_keywords": [
+    "free",
+    "win",
+    "urgent",
+    "cash",
+    "offer",
+    "reply"
+  ],
+  "challenge_keywords_confirmed": true
+}

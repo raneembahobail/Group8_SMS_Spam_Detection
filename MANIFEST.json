@@ -1,0 +1,127 @@
+[
+  {
+    "path": ".gitignore",
+    "size_bytes": 336,
+    "sha256": "4c195046ec924047cff72e0022536f50348d7af988cabf430dc19fb8c26d2774"
+  },
+  {
+    "path": "README.md",
+    "size_bytes": 10122,
+    "sha256": "18390739bb6c8274407872f5ceea90f508ff69897d14ba48ef5c4c2c94c6da44"
+  },
+  {
+    "path": "config/environment_versions.json",
+    "size_bytes": 229,
+    "sha256": "f86de7c3676910168b3783134e077295f9c6225438b18813a532d130b3a5f428"
+  },
+  {
+    "path": "config/experiment_settings.json",
+    "size_bytes": 715,
+    "sha256": "72d87a732ec8b9c6f3162a8842d88ae07ab349c2f66e8d37b626c1cecfcc5e9e"
+  },
+  {
+    "path": "docs/CONTRIBUTIONS.md",
+    "size_bytes": 1603,
+    "sha256": "0b059e0065c8de9cf0ea8ed9a2569f75ad0b6b08e5e7b69c1ea7cb5ab2379110"
+  },
+  {
+    "path": "docs/DATASET_AND_REFERENCES.md",
+    "size_bytes": 1431,
+    "sha256": "8d584cc9de5997972ca2263b462389f629a2a684ef7a994f701d6947f30332d5"
+  },
+  {
+    "path": "docs/GITHUB_UPLOAD.md",
+    "size_bytes": 1838,
+    "sha256": "d3cbd03fbfa5dbe42a0df4e86e7b1a3658aa46425360aade06c4b808265934b9"
+  },
+  {
+    "path": "docs/REPRODUCIBILITY.md",
+    "size_bytes": 1319,
+    "sha256": "409793d0046838bf69388b4f432ae8ea7d4c484cd161a9184b17e80d6f8aaecc"
+  },
+  {
+    "path": "models/README.md",
+    "size_bytes": 624,
+    "sha256": "395c59d5f660cf932688b6aff33adecd559ad1dc18ab237567d2488c2452676b"
+  },
+  {
+    "path": "models/sbert_logistic_regression.joblib",
+    "size_bytes": 3935,
+    "sha256": "120b7aa24e12387ec15b551f189c8656a50f9c46e0b26b58a8ac41fc3c09d99b"
+  },
+  {
+    "path": "models/tfidf_logistic_regression.joblib",
+    "size_bytes": 291167,
+    "sha256": "59f7f795c73edf632df041f62c37d081c5a43c8aa69582a14a1999880d580fd6"
+  },
+  {
+    "path": "models/tfidf_vectorizer.joblib",
+    "size_bytes": 837126,
+    "sha256": "cf0cb99b28dfa72e26112f73f5d9737f63bc6c32944e842f7a18ed058c7de940"
+  },
+  {
+    "path": "notebooks/Group8_SMS_Spam_Detection.ipynb",
+    "size_bytes": 764457,
+    "sha256": "c7133e785f0fdf0cad447e9ed6a649fd49c0168b351a8ae8521b9b62aa62935b"
+  },
+  {
+    "path": "requirements.txt",
+    "size_bytes": 183,
+    "sha256": "a548067bdaeddd6f509b6c8ab057853f262147073b6ec3eb307cd6f06bb89713"
+  },
+  {
+    "path": "results/challenge_subset_results.csv",
+    "size_bytes": 181,
+    "sha256": "8eb4eeb64a7058357aaef5126bf7715ee9380f446350020c760bb43778034ddb"
+  },
+  {
+    "path": "results/development_comparison.csv",
+    "size_bytes": 480,
+    "sha256": "177cc3f5a22c92534893aed6aab1d5ab05d7472bd1e61795ad70ee0747b135f4"
+  },
+  {
+    "path": "results/original_labelled_examples.csv",
+    "size_bytes": 411,
+    "sha256": "6ced700936626ac079fbe52809f075a24300ca9f97a3d05a7d545b5288154e3b"
+  },
+  {
+    "path": "results/sbert_development_eligible_thresholds.csv",
+    "size_bytes": 71596,
+    "sha256": "d7aff62e580b666345711c9ad212fab334bb6ecd9781fc0a0dddafcd78d282b2"
+  },
+  {
+    "path": "results/sbert_development_threshold_search.csv",
+    "size_bytes": 79612,
+    "sha256": "f24434298b9c3d202002458356e7d86accadf288acba5a80409e41ce9d5ae567"
+  },
+  {
+    "path": "results/shared_split_assignments.csv",
+    "size_bytes": 1470896,
+    "sha256": "051f99007a9d658a8e137982be2677e236aa615570ae825331128105595a6057"
+  },
+  {
+    "path": "results/test_comparison.csv",
+    "size_bytes": 524,
+    "sha256": "10071aa1681160dac525d3581a3fc3db5bb683c77b6c16534c3d20ee86f9da03"
+  },
+  {
+    "path": "results/test_error_analysis.csv",
+    "size_bytes": 9448,
+    "sha256": "e3df2f3084d7b5faa2157315fb6d72f72b9e9f8bd948dbf39a236e99533753ff"
+  },
+  {
+    "path": "results/test_predictions.csv",
+    "size_bytes": 154516,
+    "sha256": "788db48591c1d24d1982977f8134d5f2cd0c138a1b5ce9729d0603a493202d10"
+  },
+  {
+    "path": "results/tfidf_development_eligible_thresholds.csv",
+    "size_bytes": 71372,
+    "sha256": "147d3c2e0156b0e3ce45cbbd3b606a88a17bfc259b89ca00c3c8dcc68d57bcb1"
+  },
+  {
+    "path": "results/tfidf_development_threshold_search.csv",
+    "size_bytes": 79613,
+    "sha256": "38f1df1ba3ba355d7fcc7b2fcba6e2262f27293c8fca9df71cb698c9e5b43a7c"
+  }
+]

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Downloaded dataset and embedding cache
+sms_spam_collection.zip
+sbert_embedding_cache/
+
+# Runtime outputs / temporary archives
+group8_evaluation/
+Group8_SMS_Spam_Detection_Results.zip
+*.tmp
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

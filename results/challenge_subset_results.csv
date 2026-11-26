@@ -1,0 +1,7 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: challenge_subset_results.csv>
+index,Model,Condition,Challenge ham examples,False positives,Challenge FPR
+0,TF-IDF,Default,30,0,0.0
+1,TF-IDF,Adjusted,30,3,0.1
+2,Sentence-BERT,Default,30,0,0.0
+3,Sentence-BERT,Adjusted,30,0,0.0
